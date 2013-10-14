@@ -60,15 +60,13 @@ h1{
     font-family: 'Cantora One', sans-serif;
     font-size: 200%;
     color: #EEEDEA;
+    line-height:60px;   
 }
 
 img:hover{
     opacity: 1.0;
 }
 
-.inline{
-    line-height:60px;
-}
 
 figure{
     display: inline-block;
